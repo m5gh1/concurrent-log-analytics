@@ -1,0 +1,7 @@
+build/
+cmake-build-*/
+output/*
+!output/.gitkeep
+*.log
+*.out
+.DS_Store
